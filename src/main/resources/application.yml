@@ -3,9 +3,9 @@ server:
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://www.xiaobeifeng.top:3306/xiaobeifeng
+    url: jdbc:mysql://www.xiaobeifeng.top:3306/dabinDev
     username: root
-    password: 123456
+    password: root
   jpa:
     hibernate:
       ddl-auto: update
